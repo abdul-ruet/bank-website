@@ -1,0 +1,58 @@
+
+.submit-area{
+    padding-top: 100px;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 12px rgb(70, 6, 6);
+    padding: 40px;
+    background-color: seagreen;
+    
+    
+    
+}
+.right{
+    float: right;
+}
+.imgg{
+    align-items: center;
+   
+}
+.color{
+    background-color: darkcyan;
+
+
+}
+.body{
+    background-color: aquamarine;
+}
+
+.center{
+    
+    
+    color: cyan;
+    
+}
+#t-area{
+    padding-top: 30px;
+    display: none;
+    
+}
+.deposit{
+    background-color: slateblue;
+    
+}
+.withdraw{
+    background-color: lightsalmon;
+   
+}
+.balance{
+    background-color: orange;
+    
+}
+.status{
+    margin: 0 20px;
+     color: white;
+     padding: 20px;
+     border-radius: 20px;
+
+}
